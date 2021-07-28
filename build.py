@@ -2,6 +2,11 @@ from selenium import webdriver
 import user
 import time
 
+
+username="tcnumber"
+password="tcpassword"
+
+
 driver_path="chromedriver.exe"
 browser=webdriver.Chrome()
 
