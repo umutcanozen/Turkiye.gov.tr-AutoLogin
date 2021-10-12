@@ -1,6 +1,5 @@
 from selenium import webdriver
-import user
-import time
+from time import sleep
 
 
 username="tcnumber"
